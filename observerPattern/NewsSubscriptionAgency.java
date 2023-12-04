@@ -14,7 +14,7 @@ public class NewsSubscriptionAgency {
         System.out.println("Welcome to Real-time News Subscription Service! \n");
 
         // for future enhancements to categorization of news updates.
-        List<String> newsCategories = new ArrayList<>(Arrays.asList("Weather", "Sports", "Health"));
+        List<String> newsCategories = (Arrays.asList("Weather", "Sports", "Health"));
         System.out.println("Current News Categories: " + newsCategories + " \n");
 
         Subscriber subs1 = new Subscriber("Thomas Shelby");
