@@ -1,4 +1,4 @@
-# observerPattern
+# Observer Pattern
 
 ## Problem statement
 <b> Real-time News Subscription Service </b>
