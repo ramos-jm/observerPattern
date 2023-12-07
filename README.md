@@ -46,5 +46,4 @@
 </ul>
 
 # Class Diagram
-
-
+![observerPattern](https://github.com/ramos-jm/observerPattern/assets/127398189/706150ec-ef16-48ca-8327-789d94bac63a)
